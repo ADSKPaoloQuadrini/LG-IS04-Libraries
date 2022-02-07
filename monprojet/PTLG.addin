@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Assembly>C:\APPLG\UTILSIT\PluginsRevit\PTLG\bin\Debug\PTLGClassLibrary.dll</Assembly>
+    <ClientId>356CDA5A-E6C5-4c2f-A9EF-B3444116B7C8</ClientId>
+    <FullClassName>PTLGClassLibrary.App</FullClassName>
+    <Name>PTLGClassLibrary</Name>
+    <VendorId>LGMET</VendorId>
+    <VendorDescription>Leon Grosse</VendorDescription>
+  </AddIn>
+</RevitAddIns>

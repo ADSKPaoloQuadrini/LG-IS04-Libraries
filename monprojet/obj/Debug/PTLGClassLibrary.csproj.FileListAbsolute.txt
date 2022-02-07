@@ -1,0 +1,272 @@
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\PTLGClassLibrary.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\PTLGClassLibrary.pdb
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\DataAccess.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\System.ValueTuple.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\System.ValueTuple.xml
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.csprojAssemblyReference.cache
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.g.resources
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.ConfigurateurForm.resources
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.ModeAutoQuestion1.resources
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.ModelisationAutoForm.resources
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.optionsForm.resources
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.PiedForm.resources
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.Properties.Resources.resources
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.csproj.GenerateResource.cache
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.csproj.CopyComplete
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.pdb
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\RevitAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\RevitAPIUI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\RevitAPIFoundation.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\RevitDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\PersistenceDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\UtilityAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\APIDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\GraphicsAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\EssentialsDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\GeomUtilAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\FamilyDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\DetailDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\HostObjDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\SiteDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\SculptingDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\StructuralDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\InterfaceAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\RebarDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\MassingDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\AssemblyDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\DPartDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\NumberingDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\StairRampDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\MaterialDBAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\DBManagedServices.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\AdWindows.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\RevitAddInUtility.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\APIInterop.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\UIFramework.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\AddInManager.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\RevitUIAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\DesktopMFCAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\APIUIAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\RevitMFCAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\EssentialsUIAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\DetailUIAPI.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\UIFrameworkServices.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\RevitAPI.xml
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\RevitAPIUI.xml
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\asabatier\Documents\Code source\revit-lg-ptlg\monprojet\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\PTLGClassLibrary.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\DataAccess.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\RevitAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\RevitAPIUI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\System.ValueTuple.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\RevitAPIFoundation.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\RevitDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\PersistenceDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\UtilityAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\APIDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\GraphicsAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\EssentialsDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\GeomUtilAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\FamilyDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\DetailDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\HostObjDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\SiteDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\SculptingDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\StructuralDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\InterfaceAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\RebarDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\MassingDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\AssemblyDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\DPartDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\NumberingDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\StairRampDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\MaterialDBAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\DBManagedServices.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\AdWindows.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\RevitAddInUtility.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\APIInterop.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\UIFramework.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\AddInManager.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\RevitUIAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\DesktopMFCAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\APIUIAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\RevitMFCAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\EssentialsUIAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\DetailUIAPI.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\UIFrameworkServices.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\ManagedMC3.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\RevitAPI.xml
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\RevitAPIUI.xml
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\System.ValueTuple.xml
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.csprojAssemblyReference.cache
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.g.resources
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.ConfigurateurForm.resources
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.ModeAutoQuestion1.resources
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.ModelisationAutoForm.resources
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.optionsForm.resources
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.PiedForm.resources
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.Properties.Resources.resources
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.csproj.GenerateResource.cache
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.csproj.CopyComplete
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.dll
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\obj\Debug\PTLGClassLibrary.pdb
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\PTLGClassLibrary.pdb
+C:\Users\asabatier\Documents\CodeSource\revit-lg-ptlg\monprojet\bin\Debug\PTLG.addin
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.csproj.AssemblyReference.cache
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.g.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.pdb
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\PTLG.addin
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\PTLGClassLibrary.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\PTLGClassLibrary.pdb
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\DataAccess.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\System.ValueTuple.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\RevitAPIFoundation.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\RevitDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\PersistenceDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\UtilityAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\APIDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\GraphicsAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\EssentialsDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\GeomUtilAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\FamilyDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\DetailDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\HostObjDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\SiteDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\SculptingDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\StructuralDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\InterfaceAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\RebarDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\MassingDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\AssemblyDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\DPartDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\NumberingDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\StairRampDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\MaterialDBAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\DBManagedServices.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\AdWindows.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\RevitAddInUtility.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\APIInterop.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\UIFramework.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\AddInManager.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\RevitUIAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\DesktopMFCAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\APIUIAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\RevitMFCAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\EssentialsUIAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\DetailUIAPI.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\UIFrameworkServices.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\ManagedMC3.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\RevitAPI.xml
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\RevitAPIUI.xml
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\System.ValueTuple.xml
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.ConfigurateurForm.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.ModeAutoQuestion1.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.ModelisationAutoForm.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.optionsForm.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.PiedForm.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.Properties.Resources.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.csproj.GenerateResource.cache
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\ISXX - XXX\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\PTLG.addin
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\PTLGClassLibrary.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\PTLGClassLibrary.pdb
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\DataAccess.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\System.ValueTuple.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\bin\Debug\System.ValueTuple.xml
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.g.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.ConfigurateurForm.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.ModeAutoQuestion1.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.ModelisationAutoForm.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.optionsForm.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.PiedForm.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.Properties.Resources.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.csproj.GenerateResource.cache
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.csproj.CopyComplete
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.dll
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.pdb
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.ConfigurateurManForm.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.ConfigurateurGenForm.resources
+C:\Users\t_quadp\OneDrive - Autodesk\WORKS\WIP\LeonGrosse\IS04 - Passerelle\REPOS\_GitHub_PQ\PTLGClassLibrary\monprojet\obj\Debug\PTLGClassLibrary.csproj.AssemblyReference.cache

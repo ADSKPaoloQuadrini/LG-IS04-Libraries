@@ -18,25 +18,26 @@ namespace PTLGClassLibrary
 
         public Result OnStartup(UIControlledApplication application)
         {
+            #region Autodesk PQ - IS04
             ///
             /// UNCOMMENT BEFORE DELIVER
             /// 
 
-            //String domainString = System.DirectoryServices.ActiveDirectory.Domain.GetComputerDomain().ToString();
-            //if (domainString == "LEON-GROSSE.FR")
-            //{
-            //    // Call this method explicitly in App.cs when Revit starts up because 
-            //    // in .Net 4, the static variables will not be initialized until use them,*/
+            string domainString = System.DirectoryServices.ActiveDirectory.Domain.GetComputerDomain().ToString();
+            if (domainString == "LEON-GROSSE.FR")
+            {
+                // Call this method explicitly in App.cs when Revit starts up because 
+                // in .Net 4, the static variables will not be initialized until use them,*/
 
-            //    AddMenu(application);
-            //    AddAppDocEvents(application.ControlledApplication);
-            //    return Autodesk.Revit.UI.Result.Succeeded;
-            //}
-            //else
-            //{
-            //    TaskDialog.Show("Erreur", "Non autorisé");
-            //    return Autodesk.Revit.UI.Result.Failed;
-            //}
+                AddMenu(application);
+                AddAppDocEvents(application.ControlledApplication);
+                return Result.Succeeded;
+            }
+            else
+            {
+                TaskDialog.Show("Erreur", "Non autorisé");
+                return Result.Failed;
+            }
             //return Autodesk.Revit.UI.Result.Failed;
 
 
@@ -46,10 +47,11 @@ namespace PTLGClassLibrary
             /// COMMENT BEFORE DELIVER
             /// 
 
-            AddMenu(application);
-            AddAppDocEvents(application.ControlledApplication);
+            //AddMenu(application);
+            //AddAppDocEvents(application.ControlledApplication);
 
-            return Result.Succeeded;
+            //return Result.Succeeded;
+            #endregion
         }
         public Result OnShutdown(UIControlledApplication application)
         {
@@ -78,12 +80,12 @@ namespace PTLGClassLibrary
 
             #region Autodesk PQ - IS04
             /// Bouton Configurateur ORIGINAL ===> supprimer/cacher
-            PushButton configurateurBtnORIG = rvtRibbonPanel.AddItem(new PushButtonData(
-                "configurationPTLG", "Configurateur" + "\r\n" + "général orig", ExecutingAssemblyPath, "PTLGClassLibrary.ConfigurateurClass")) as PushButton;
+            //PushButton configurateurBtnORIG = rvtRibbonPanel.AddItem(new PushButtonData(
+            //    "configurationPTLG", "Configurateur" + "\r\n" + "général orig", ExecutingAssemblyPath, "PTLGClassLibrary.ConfigurateurClass")) as PushButton;
             
-            BitmapImage largeImageORIG = new BitmapImage(new Uri("pack://application:,,,/PTLGClassLibrary;component/RessourcesApp/PTLG_3D.png"));
-            configurateurBtnORIG.LargeImage = largeImageORIG;
-            configurateurBtnORIG.ToolTip = "Ouvre le Configurateur de passerelle PTLG";
+            //BitmapImage largeImageORIG = new BitmapImage(new Uri("pack://application:,,,/PTLGClassLibrary;component/RessourcesApp/PTLG_3D.png"));
+            //configurateurBtnORIG.LargeImage = largeImageORIG;
+            //configurateurBtnORIG.ToolTip = "Ouvre le Configurateur de passerelle PTLG";
 
 
             /// Bouton Configurateur GENERAL

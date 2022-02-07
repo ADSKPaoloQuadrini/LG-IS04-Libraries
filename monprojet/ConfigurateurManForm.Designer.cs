@@ -1,4 +1,5 @@
-﻿namespace PTLGClassLibrary
+﻿#region Autodesk PQ - IS04
+namespace PTLGClassLibrary
 {
     partial class ConfigurateurManForm
     {
@@ -1466,3 +1467,4 @@
         public System.Windows.Forms.PictureBox sabotDroitPictureBox2;
     }
 }
+#endregion

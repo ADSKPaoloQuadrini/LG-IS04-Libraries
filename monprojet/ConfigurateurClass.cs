@@ -706,12 +706,22 @@ namespace PTLGClassLibrary
                     f.commentaireLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
                 }
                 #endregion affichage de l'erreur
-                int IndexTest = (f.attacheDroiteComboBox.SelectedIndex + 1) * (f.attacheGaucheComboBox.SelectedIndex + 1) * (f.attacheCentreComboBox.SelectedIndex + 1) * (f.bancheComboBox.SelectedIndex + 1) * (f.extensionDroiteComboBox.SelectedIndex + 1) * (f.extensionGaucheComboBox.SelectedIndex + 1);
+                #region Autodesk PQ - IS04
+                //int IndexTest = (f.attacheDroiteComboBox.SelectedIndex + 1) * (f.attacheGaucheComboBox.SelectedIndex + 1) * (f.attacheCentreComboBox.SelectedIndex + 1) * (f.bancheComboBox.SelectedIndex + 1) * (f.extensionDroiteComboBox.SelectedIndex + 1) * (f.extensionGaucheComboBox.SelectedIndex + 1);
+                //if (IndexTest == 0)
+                //    f.applyButton.Enabled = false;
+                //else
+                //    f.applyButton.Enabled = true;
+                //GeneralClass.TestIndexComboBox(f);
+                int IndexTest = (f.attacheDroiteComboBox.SelectedIndex + 1) * (f.attacheGaucheComboBox.SelectedIndex + 1) * (f.bancheComboBox.SelectedIndex + 1) * (f.extensionDroiteComboBox.SelectedIndex + 1) * (f.extensionGaucheComboBox.SelectedIndex + 1);
+                if (f.troisiemeAttacheCheckBox.Checked == true)
+                    IndexTest *= (f.attacheCentreComboBox.SelectedIndex + 1);
+
                 if (IndexTest == 0)
                     f.applyButton.Enabled = false;
                 else
                     f.applyButton.Enabled = true;
-                //GeneralClass.TestIndexComboBox(f);
+                #endregion
             };
             #endregion actualisation des valeurs maxi et courantes des qu'on change soit Hbanche soit Angles droit/gauche
             #region initialisation extensions/ sabots d'appuis

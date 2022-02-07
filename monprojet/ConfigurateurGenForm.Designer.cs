@@ -1,4 +1,5 @@
-﻿namespace PTLGClassLibrary
+﻿#region Autodesk PQ - IS04
+namespace PTLGClassLibrary
 {
     partial class ConfigurateurGenForm
     {
@@ -1321,3 +1322,4 @@
         public System.Windows.Forms.CheckBox angleGaucheInterieurCheckBox2;
     }
 }
+#endregion
